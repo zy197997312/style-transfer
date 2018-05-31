@@ -1,0 +1,1 @@
+python style.py -s images/style/starry_night.jpg -c images/content/4.jpg -m vgg19 -g 0
